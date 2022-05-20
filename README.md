@@ -9,7 +9,7 @@
 
 
 참고 사항
-- [HTML 시맨틱 구조](https://velog.io/@sukyoungshin/07-HTMLHTML5-%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EA%B5%AC%EC%A1%B0)을 이용하여 기본 개념을 익혀보세요.
+- HTML 시맨틱 구조(https://velog.io/@sukyoungshin/07-HTMLHTML5-%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EA%B5%AC%EC%A1%B0)을 이용하여 기본 개념을 익혀보세요.
 - 기본적인 사이트 구조를 이해하여 작업 해보세요.
 - 기능 구현은 생략하셔도 좋습니다. 최대한 시안과 동일한 룩을 구현해보세요.
 
